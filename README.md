@@ -46,7 +46,7 @@ cordova plugin add https://github.com/CleverTap/clevertap-cordova.git --variable
 ionic cordova plugin add clevertap-cordova@latest --variable CLEVERTAP_ACCOUNT_ID="YOUR CLEVERTAP ACCOUNT ID" --variable CLEVERTAP_TOKEN="YOUR CELVERTAP ACCOUNT TOKEN"
 ```
 
-##### For Ionic3
+##### For Ionic 3
 ```
 npm install @ionic-native/clevertap --save 
 ```
